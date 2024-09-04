@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+a hr {
+    display: none;
+}
+
+a.active hr {
+    display: block;
+}
+
+* {
+    font-family: 'Outfit';
+}
+
+.prata-regular {
+    font-family: 'Prata', serif;
+    font-weight: 100;
+    font-style: normal;
+}
